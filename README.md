@@ -7,6 +7,8 @@ This Tableau dashboard compares six major countries (India, Australia, USA, Chin
 - **Population**
 - **Unemployment Rate**
 - **Agricultural Land (%)**
+### **Screenshot**:
+![Screenshot 2024-09-23 231251](https://github.com/user-attachments/assets/e7da9573-d25e-4c35-85b9-eb1cf819cf77)
 
 ### **Features of the Dashboard:**
 
